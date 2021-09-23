@@ -1,0 +1,49 @@
+h1{
+    color: rgb(121, 231, 231);
+    font-size: small;
+}
+
+#Ayan{
+   
+    color: brown;
+}
+
+.Disha{
+    color:chartreuse;
+}
+
+body > h6{
+    color:darkblue;
+}
+
+p{
+    font-size: larger;
+    text-transform: lowercase;
+}
+
+table{
+    background-image: url("LGM.png");
+}
+
+a {text-decoration:none;} 
+ a:link {color:pink;text-decoration:none;} 
+a:visited {color: purple;text-decoration:none;} 
+a:active {background-color: yellow;text-decoration:none;}
+ a:hover {	color:red;	text-decoration:none;}
+
+
+.TopColleges{
+    background-color: blueviolet;
+   
+}
+
+.Tier3Colleges{
+    background-color: coral;
+   
+
+}
+
+#picture {
+    float:left;
+    width: 100px;
+}
